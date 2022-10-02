@@ -1,0 +1,50 @@
+<div class="jumbotron" style="background-color: blanchedalmond;">
+    
+        <div class="about-grids">
+            <div>
+                
+                <div class="about-grd-rgt-grids">
+                    <div class="clearfix">
+                        
+                            <h3>WELCOME TO MY PORTFOLIO !</h3>
+                            <p>Quality teaching with Evolved Learning and empowering him/her with knowledge to realise his potential and achieve his dream ambition.</p>
+                            <img src="./assets/img.jpg" style="float: left;" >
+                            <div class="main">
+                                <br><p><b>WE BELIEVE IN:</b></p>
+                                <p>
+                                •Growth Of Student .<br>
+                                •Continuous Quality Developement.<br>
+                                •Overall Developement And Innovative Thinking. 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+
+<hr>
+        <h2 >Clients Information</h2>
+        <br>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th> Id</th>
+                <th><i class="fa fa-user"></i>FirstName</th>
+                <th><i class="fa fa-user"></i>LastName</th>
+                <th><i class="fa fa-envelope"></i>Email</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let u of users">
+                <td>{{u.id}}</td>
+                <td>{{u.FirstName}}</td>
+                <td>{{u.LastName}}</td>
+                <td>{{u.Email}}</td>   
+            </tr>
+        </tbody>
+    </table>
+</div>

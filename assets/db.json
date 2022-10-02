@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "FirstName": "Kholi",
+      "LastName": "Virat",
+      "Email": "vikrat12@gmail.com",
+      "Password": "virat*12"
+      
+       
+    },
+    {
+        "id": 2,
+        "FirstName": "Dhoni",
+        "LastName": "MS",
+        "Email": "msd7@gamil.com",
+        "Password": "ms*7" 
+      },
+      {
+        "id": 3,
+        "FirstName": "Rohit",
+        "LastName": "Sharma",
+        "Email": "rohit45@gmail.com",
+        "Password": "ro&45"
+        
+         
+      },
+      {
+        "id": 4,
+        "FirstName": "ABD",
+        "LastName": "MR.360",
+        "Email": "abd17@gmail.com",
+        "Password": "ab#17"
+        
+         
+      },
+      {
+        "id": 5,
+        "FirstName": "Hardik",
+        "LastName": "Pandya",
+        "Email": "hk12@gmail.com",
+        "Password": "hk12@123"
+        
+         
+      }
+     
+  ]

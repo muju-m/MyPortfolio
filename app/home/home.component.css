@@ -1,0 +1,18 @@
+h2{
+text-align: center;
+}
+img{
+    height: 150px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    
+    
+}
+
+
+.main{
+   float: left;
+   padding: 10px;
+}
